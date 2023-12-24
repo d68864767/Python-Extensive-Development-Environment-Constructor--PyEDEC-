@@ -1,0 +1,21 @@
+```python
+# default_template.py
+
+# This is a template for a default project structure
+
+DEFAULT_PROJECT_STRUCTURE = {
+    'src': {
+        'main': {
+            'python': {},
+            'resources': {}
+        },
+        'test': {
+            'python': {},
+            'resources': {}
+        }
+    },
+    'docs': {},
+    'libs': {},
+    'bin': {}
+}
+```
